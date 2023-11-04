@@ -1,0 +1,15 @@
+{
+    "name": "dell/quest-twig",
+    "autoload": {
+        "psr-4": {
+            "Dell\\QuestTwig\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Didixe",
+            "email": "Adeline.gilet@gmail.com"
+        }
+    ],
+    "require": {}
+}
